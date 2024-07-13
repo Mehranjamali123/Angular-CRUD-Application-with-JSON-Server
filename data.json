@@ -1,0 +1,49 @@
+{
+  "Student": [
+    {
+      "id": "5234",
+      "fname": "",
+      "lname": null,
+      "email": null,
+      "address": null,
+      "gender": null,
+      "course": null
+    },
+    {
+      "id": "56ce",
+      "fname": "fghfhf",
+      "lname": "ghfgh",
+      "email": "fghdfhd",
+      "address": "fdhfgfgh",
+      "gender": "male",
+      "course": "javaScript"
+    },
+    {
+      "id": "0732",
+      "fname": "mehran",
+      "lname": "jamali",
+      "email": "jamalikhan367@gmail.con",
+      "address": "karachi shindh",
+      "gender": null,
+      "course": null
+    },
+    {
+      "id": "4d14",
+      "fname": "mehran",
+      "lname": "jamali",
+      "email": "jamalikhan367@gmail.con",
+      "address": "karachi shindh",
+      "gender": "male",
+      "course": "javaScript"
+    },
+    {
+      "id": "8733",
+      "fname": "mehran",
+      "lname": "jamali",
+      "email": "jamalikhan367@gmail.con",
+      "address": "karachi shindh",
+      "gender": "male",
+      "course": "javaScript"
+    }
+  ]
+}
